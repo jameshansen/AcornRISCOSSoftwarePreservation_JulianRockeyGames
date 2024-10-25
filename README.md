@@ -9,9 +9,13 @@ Around 2003-2004, I emailed Julian Rockey about these games, asking if I could r
 Upon recently researching again, I found a [go-fund-me](https://www.gofundme.com/f/fund-for-bump) that indicated Julian passed away in 2019, aged 47. After seeing this tragic news, I felt compelled to get these games out there, so they aren't completely lost to time. They are a fantastic example of how computer programming was becoming very popular with young people at the time, with Julian being in his mid-teens when he programmed these games.
 
 # Lost Data and Contact
-As mentioned above, the original BattleTanx mazes / maps were lost. This game appears to be mostly original, asides from maybe a ZX Spectrum release, so it's likely they may be gone forever, but if you have a copy, please let me know. To load my Battletanx mazes, click **New Mazes** type in **MAZES** and press enter.
+As mentioned above, the original BattleTanx mazes / maps were lost. This game appears to be mostly original, asides from maybe a ZX Spectrum release, so it's likely they may be gone forever, but if you have a copy, please let me know.
 
-I also appear to have lost the Archenoid screens as well. As this appears to be a customized version of another game to add a map editor, the originals might be out there. The "Screens" file in Data.Archenoid might also be recoverable, not sure. To load my Archenoid screens, Press 4 and type in **Newscreens** and press enter.
+To load my Battletanx mazes, click **New Mazes** type in **MAZES** and press enter.
+
+I also appear to have lost the Archenoid screens as well. As this appears to be a customized version of another game to add a map editor, the originals might be out there. The "Screens" file in Data.Archenoid might also be recoverable, not sure.  Searching **Archenoid** on google doesn't yield any information about this game.
+
+To load my Archenoid screens, Press 4 and type in **Newscreens** and press enter.
 
 If you have any more information on these games, or the original untouched mazes, maps or screens, feel free to reach out to me at **jameshansen.bc@gmail.com**.
 
