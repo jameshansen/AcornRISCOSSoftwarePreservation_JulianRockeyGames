@@ -4,9 +4,16 @@ Archive of Acorn Archimedes RISC OS Games by Julian Rockey, also known as "J.Roc
 # Background
 My father, Martin Hansen, was a teacher at Shrewsbury School for many decades, and has always been an avid supporter of Acorn Computers. Julian Rockey was a former student at the school, and somewhere along the way, my father ended up with a acorn formatted floppy disk that contained games coded or enhanced by Julian Rockey in the late 1980s. I played many of these games on Archimedes machines growing up all the time, forming part of my childhood memories, but to this day I have no idea if I had the only copy or if they were more widespread.
 
-Around 2003-2004, I emailed Julian Rockey about these games, asking if I could release the games on my website, as well as if he had the original Maps for **Battletanx**, as the originals became corrupted (the **MAZES** ones included are new ones I created along with my step-father). I no longer have his reply email, but I remember that he was happy for me to distribute the games at that time, which is why I feel that it is OK for me to upload them here again, as my website is no longer online. He said that the original maps were on a computer in his attic, so was not able to retreive them. Feel free to submit an issue on the github if you have the originals! I also appear to have lost the Archenoid screens as well.
+Around 2003-2004, I emailed Julian Rockey about these games, asking if I could release the games on my website, as well as if he had the original Maps for **Battletanx**, as the originals became corrupted (the **MAZES** ones included are new ones I created along with my step-father). I no longer have his reply email, but I remember that he was happy for me to distribute the games at that time, which is why I feel that it is OK for me to upload them here again, as my website is no longer online. He said that the original maps were on a computer in his attic, so was not able to retreive them.
 
 Upon recently researching again, I found a [go-fund-me](https://www.gofundme.com/f/fund-for-bump) that indicated Julian passed away in 2019, aged 47. After seeing this tragic news, I felt compelled to get these games out there, so they aren't completely lost to time. They are a fantastic example of how computer programming was becoming very popular with young people at the time, with Julian being in his mid-teens when he programmed these games.
+
+# Lost Data and Contact
+As mentioned above, the original BattleTanx mazes / maps were lost. This game appears to be mostly original, asides from maybe a ZX Spectrum release, so it's likely they may be gone forever, but if you have a copy, please let me know. To load my Battletanx mazes, click **New Mazes** type in **MAZES** and press enter.
+
+I also appear to have lost the Archenoid screens as well. As this appears to be a customized version of another game to add a map editor, the originals might be out there. The "Screens" file in Data.Archenoid might also be recoverable, not sure. To load my Archenoid screens, Press 4 and type in **Newscreens** and press enter.
+
+If you have any more information on these games, or the original untouched mazes, maps or screens, feel free to reach out to me at **jameshansen.bc@gmail.com**.
 
 # Games
 
