@@ -4,7 +4,7 @@ Archive of Acorn Archimedes RISC OS Games by Julian Rockey, also known as "J.Roc
 # Background
 My father, Martin Hansen, was a teacher at Shrewsbury School for many decades, and has always been an avid supporter of Acorn Computers. Julian Rockey was a former student at the school, and somewhere along the way, my father ended up with a acorn formatted floppy disk that contained games coded or enhanced by Julian Rockey in the late 1980s. I played many of these games on Archimedes machines growing up all the time, forming part of my childhood memories, but to this day I have no idea if I had the only copy or if they were more widespread.
 
-Around 2003-2004, I emailed Julian Rockey about these games, asking if I could release the games on my website, as well as if he had the original Maps for **Battletanx**, as the originals became corrupted (the **MAZES** ones included are new ones I created along with my step-father). I no longer have his reply email, but I remember that he was happy for me to distribute the games at that time, which is why I feel that it is OK for me to upload them here again, as my website is no longer online. He said that the original maps were on a computer in his attic, so was not able to retreive them. Feel free to submit an issue on the github if you have the originals!
+Around 2003-2004, I emailed Julian Rockey about these games, asking if I could release the games on my website, as well as if he had the original Maps for **Battletanx**, as the originals became corrupted (the **MAZES** ones included are new ones I created along with my step-father). I no longer have his reply email, but I remember that he was happy for me to distribute the games at that time, which is why I feel that it is OK for me to upload them here again, as my website is no longer online. He said that the original maps were on a computer in his attic, so was not able to retreive them. Feel free to submit an issue on the github if you have the originals! I also appear to have lost the Archenoid screens as well.
 
 Upon recently researching again, I found a [go-fund-me](https://www.gofundme.com/f/fund-for-bump) that indicated Julian passed away in 2019, aged 47. After seeing this tragic news, I felt compelled to get these games out there, so they aren't completely lost to time. They are a fantastic example of how computer programming was becoming very popular with young people at the time, with Julian being in his mid-teens when he programmed these games.
 
@@ -28,10 +28,12 @@ Both Lander and Zarch appear to have been modified to load from the **~code** su
 ![image](https://github.com/user-attachments/assets/52a52c6b-4d7f-4bb2-aeef-f3e9774ce43c)
 
 ### Archenoid
+** To load Archenoid screens (as the originals were lost), Press 4 and type in **Newscreens** and press enter.
 ![image](https://github.com/user-attachments/assets/b1c2e750-a788-42c8-b0e8-c50cb46f44c7)
 The "death" sound effect is forever engrained in my brain!
 
 ### Battletanx
+** To load Battletanx mazes (as the originals were lost), Click **New Mazes** type in **MAZES** and press enter.
 ![image](https://github.com/user-attachments/assets/949a2212-1680-42ad-8a2c-7f8bb9fed813)
 ![image](https://github.com/user-attachments/assets/d21b52c7-c4dc-41d0-8977-142e8063c310)
 ![image](https://github.com/user-attachments/assets/0019eaaa-d4db-4d6b-bddb-6c93ea37a102)
