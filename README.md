@@ -13,7 +13,7 @@ As mentioned above, the original BattleTanx mazes / maps were lost. This game ap
 
 To load my Battletanx mazes, click **New Mazes** type in **MAZES** and press enter.
 
-I also appear to have lost the Archenoid screens as well. As this appears to be a customized version of another game to add a map editor, the originals might be out there. The "Screens" file in Data.Archenoid might also be recoverable, not sure.  Searching **Archenoid** on google doesn't yield any information about this game.
+I also appear to have lost the Archenoid screens as well, as the "Screens" data file is all blank. As this appears to be a customized version of another game to add a map editor, the originals might be out there but searching **Archenoid** on google doesn't yield any information about this game.
 
 To load my Archenoid screens, Press 4 and type in **Newscreens** and press enter.
 
