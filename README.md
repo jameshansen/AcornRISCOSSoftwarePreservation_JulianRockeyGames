@@ -41,6 +41,10 @@ Both Lander and Zarch appear to have been modified to load from the **~code** su
 ### Archenoid
 ** To load Archenoid screens (as the originals were lost), Press 4 and type in **Newscreens** and press enter.
 ![image](https://github.com/user-attachments/assets/b1c2e750-a788-42c8-b0e8-c50cb46f44c7)
+
+![image](https://github.com/user-attachments/assets/d7d19a8b-78a2-467f-906e-b07449d718cf)
+
+
 The "death" sound effect is forever engrained in my brain!
 
 ### Battletanx
@@ -51,6 +55,9 @@ The "death" sound effect is forever engrained in my brain!
 
 ### Missile Command
 ![image](https://github.com/user-attachments/assets/cd722c71-2643-46ee-9cb8-9248a822d218)
+
+![image](https://github.com/user-attachments/assets/bb047968-7a30-4d62-83c9-a6c490776dfd)
+
 
 ### Stellar Rescue
 ![image](https://github.com/user-attachments/assets/0d8cdbbf-55dd-465d-a170-06052adf47d8)
