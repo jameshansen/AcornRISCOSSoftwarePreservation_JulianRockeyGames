@@ -6,7 +6,9 @@ My father, Martin Hansen, was a teacher at Shrewsbury School for many decades, a
 
 Around 2003-2004, I emailed Julian Rockey about these games, asking if I could release the games on my website, as well as if he had the original Maps for **Battletanx**, as the originals became corrupted (the **MAZES** ones included are new ones I created along with my step-father). I no longer have his reply email, but I remember that he was happy for me to distribute the games at that time, which is why I feel that it is OK for me to upload them here again, as my website is no longer online. He said that the original maps were on a computer in his attic, so was not able to retreive them.
 
-Upon recently researching again, I found a [go-fund-me](https://www.gofundme.com/f/fund-for-bump) that indicated Julian passed away in 2019, aged 47. After seeing this tragic news, I felt compelled to get these games out there, so they aren't completely lost to time. They are a fantastic example of the early computer programming revolution, with talented programmers like Julian able to craft their own computer games and share them at a young age.
+Upon recently researching again, I found a [go-fund-me](https://www.gofundme.com/f/fund-for-bump) that indicated Julian passed away in 2019, aged 47. After seeing this tragic news, I felt compelled to get these games out there, so they aren't completely lost to time.
+
+These are a fantastic example of the early computer programming revolution, with talented programmers like Julian able to craft their own computer games and share them at a young age. Julian went on to release Quazer for the Achimedes commercially in 1988.
 
 # Lost Data and Contact
 As mentioned above, the original BattleTanx mazes / maps were lost. This game appears to be an original, not an enhancement (asides from maybe a ZX Spectrum release?) so it's likely they may be gone forever, but if you have a copy, please let me know.
