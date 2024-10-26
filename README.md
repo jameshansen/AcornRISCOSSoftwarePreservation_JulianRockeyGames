@@ -29,24 +29,34 @@ The disk has the label **BUGames** and contained a **Games** folder, with the fo
 * **!Menu**: Menu for Archimedes (Version 1), Written by Julian Rockey on 28 Dec 1987, acts as a launcher for the other games: Archenoid, Battletanx,Lander, Missile Command and Stellar.
   
 * **Archenoid**:
+  
 "An extended version of Breakout, with multiple screens, more features and a screen designer."
+
 Written by Keith McAlpine with help from Gem Electronics and extended/modified by Julian Rockey, Title screen also credits A&B Computers
 
 * **Battletanx**:
+  
 "A simple two player tank game, where you can fight your opponent in pre-defined mazes or build your own."
+
 Archimedes BBC BASIC V version by Julian Rockey, "Battletanx / (c) SquidSoft 1984-1988. Also available for B/B+/Master and RML 480Z by Julian Rockey, and ZX Spectrum by James Williams produced by Electrosoft."
 
 * **Missile Command**:
+
 "Save your cities from the incoming missiles."
+
 Archimedes BBC BASIC V version by Julian Rockey and James Williams, Started 16 Dec 1987 ... Finished 27 Dec 1987
 
 * **Stellar**:
+
 "Guide your spaceship to land on 15 different pads, and then do it at different gravities!"
+
 'Stellar Rescue' from The Micro User, Archimedes Enhancement: J.Rockey.
 (BBC Micro version originally written by	Andrew Smith and included on a cover disk for The Micro User magazine - Micro User Vol.3, No.3 - May 1985)
 
 * **Lander**:
+
 "The spectacular 3D game that the Archimedes is famed for."
+
 (The original Lander demo from the Acorn Applications Disk by David Braben.)
 
 * **Zarch**: The Zarch game also by David Braben. (Not in !Menu)
